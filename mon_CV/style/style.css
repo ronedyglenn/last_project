@@ -1,0 +1,70 @@
+img{
+    height: 220px;
+    margin-bottom: 5px;
+}
+.profil{
+    background-color: rgba(34, 97, 112, 0.144);
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 200px;
+    margin-right: 10px;
+    line-height: 17px;
+}
+.profil2{
+    background-color: rgba(34, 97, 112, 0.144);
+    padding: 10px;
+    width: 300px;
+}
+.competences{
+    background-color: rgb(216, 211, 211);
+    padding: 10px;
+    width: 200px;
+    line-height: 13px;
+}
+.competences2{
+    background-color: rgb(216, 211, 211);
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 10px;
+    
+}
+h2{
+    color: rgb(29, 145, 212);
+}
+
+ .partie2 :nth-child(1){
+    font-size: 25px;
+ }
+ 
+ .parent{
+    display: flex;
+    justify-content: center;
+    background: #ffffff;
+    width: 39vw;
+    padding: 5px;
+
+ }
+ p{
+    margin-top: 0px;
+ }
+
+ h4{
+    margin: 0;
+ }
+
+ .competences2 :nth-child(1){
+    font-size: 20px;
+ }
+
+ .profil2 :nth-child(1){
+    font-size: 20px;
+ }
+
+
+ body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+ }
+ 
+ 
